@@ -1,0 +1,25 @@
+Artificial intelligence describes the use of computers to do certain jobs that once required human intelligence. Examples include recognizing speech, making decisions and translating between different languages.
+
+Machine learning is a branch of AI that focuses on computer programming. It uses extremely large datasets and algorithms to learn how to do complex tasks and solve problems similar to the way a human would.
+
+When used together, AI and machine learning can help us be more efficient and effective than ever before. These tools are being used with thousands of datasets to improve our ability to research various diseases and treatment options. These tools are also used behind the scenes, even before patients arrive onsite for care, to improve the patient experience.
+
+From radiology to neurology, emergency response services, administrative services and beyond, AI is changing the way we take care of ourselves and each other. In many ways, these innovations are forcing us to confront age-old questions: How can we continue to push ourselves to be better at what we already do well? And what’s left to learn as we embrace groundbreaking technology?
+
+“AI is no longer just an interesting idea, but it’s being used in a real-life setting,” says Cleveland Clinic’s Chief Digital Officer Rohit Chandra, PhD. “Today, there’s a decent chance a computer can read an MRI or an X-ray better than a human, so it’s relatively advanced in those use-cases. But then at the other extreme, you’ve got generative AI like ChatGPT and all sorts of cool stuff you hear about in the media that’s fascinating technology, but less mature. The potential for it is there and it’s also quite promising.”
+
+To that end, Cleveland Clinic has become a founding member of a global effort to create an AI Alliance — an international community of researchers, developers and organizational leaders all working together to develop, achieve and advance the safe and responsible use of AI. The AI Alliance, started by IBM and Meta, now includes over 90 leading AI technology and research organizations to support and accelerate open, safe and trusted generative AI research and development. Cleveland Clinic will lead the effort to accelerate and enhance the ethical use of AI in medical research and patient care.
+
+An example of Cleveland Clinic’s commitment to AI innovation is the Discovery Accelerator, a 10-year strategic partnership between IBM and Cleveland Clinic, focused on accelerating biomedical discovery.
+
+“Biomedical research is changing from a discipline that was once exclusively reliant on experiments in a lab done on a bench with animal models or biological samples to a discipline that involves heavy and fast computational tools,” says the Accelerator’s executive lead and Cleveland Clinic’s Chief Resource Information Officer Lara Jehi, MD.
+
+“That shift has happened because the data we now have at our disposal is way more than what we had even just 10 years ago,” she continues. “We can now measure in detail the genetic composition of every single cell in the human body. We can measure in detail how that genetic composition is translating itself to proteins that our body is making, and how those proteins are influencing the function of different organs in our body.”
+
+AI and machine learning are being integrated into every step of the patient care process — from research to diagnosis, treatment and aftercare. And that means the field of healthcare is forever changing. These kinds of changes require new approaches to medical science and new skill sets for incoming nurses, doctors and surgeons interested in working in the medical field.
+
+How fast is this technology moving? If we took our understanding of how the human body worked just 10 years ago and compared it to our understanding of how it works today with our new AI measurement tools, Dr. Jehi says that we’d have a completely different outlook on how the human body works.
+
+“The advances in AI would be like taking a fuzzy black and white picture from the 1800s and comparing it to one from an iPhone 14 Pro with high definition and color,” she illustrates. “This is the difference with the scale and the resolution of the data that we have to work with now.”
+
+So, what does AI and machine learning use look like in practice? Well, depending on the area of focus, medical specialty and what’s needed, AI can be used in a variety of ways to impact and improve patient outcomes.

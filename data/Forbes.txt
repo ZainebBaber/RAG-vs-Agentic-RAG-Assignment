@@ -1,0 +1,19 @@
+One of the major applications of AI in healthcare is when used in medical imaging and diagnostics. Algorithms are being trained on immense amounts of medical data to analyze CT scans, MRIs, X-rays, microscopy images and other medical visuals. With this training, AI can identify abnormalities, such as tumors, infections or fractures.
+
+In some cases, these AI systems have proven more accurate than healthcare professionals in detecting anomalies when diagnosing written test cases of realistic illnesses. Likewise, Google developed a deep learning model that could detect breast cancer in mammograms that showed great accuracy and fewer false positives and negatives than human radiologists. Models like this one are trained on thousands of previous mammograms to identify telltale signs of breast cancer, including irregular shapes, sizes and edges of lesions.
+
+This application of AI could reduce instances of misdiagnosis, whether that be false positives or negatives. Deep learning diagnostic performance models will likely quickly become an invaluable tool for healthcare professionals, assisting them in providing better patient care.
+
+Like with applications in other industries, AI can also be used to assist human specialists with menial tasks to bolster productivity at healthcare institutions. For example, AI can help to reduce inventory losses during reconciliation. By infusing computer vision and edge devices into the reconciliation process, AI can automate the manual process of identifying and counting the inventory in a surgical tray.
+What’s Next For AI In Healthcare
+As healthcare enters the era of AI and more possibilities emerge, organizations everywhere should be more motivated than ever to work with healthcare providers who improve patients’ lives.
+
+As is always the case when we stumble upon discoveries and inventions, the one thing that we must keep top of mind is how organizations can adapt and the potential for growth and change. When it comes to AI, the possibilities are seemingly endless, and this is true for the healthcare industry.
+
+As we continue to discover what AI can do, we will of course encounter pros as well as cons, such as the missteps or stumbles that inherently come with implementing new technology or the hurdle of widespread adoption.
+
+Privacy concerns, for example, remain top of mind, particularly in an industry that deals with such sensitive patient data. As leaders in the healthcare industry push forward into this new world, they should remain mindful of their cybersecurity, the data being used and how to maintain the crucial trust of their patients when using AI.
+
+Though the technology may be unique, the approach to these challenges is the same as many others: purposeful steps forward, meticulous decision-making and keeping the interests of the patient in mind at all times. AI has the potential to revolutionize the healthcare industry, but rushing in without the proper knowledge or preparation will do more harm than good. Organizations should seek out the proper solutions and partners to guide this new journey.
+
+By overcoming those challenges, AI technology offers a lot of promise for advancements in the quality of care, making life easier for patients and providers alike, and potentially reducing the cost of care significantly. Now, it’s up to those championing and developing this promising technology to plan for a bright future, and partner with those who understand the depths of AI and all that it is capable of to deliver the best results possible.
